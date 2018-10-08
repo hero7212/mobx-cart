@@ -1,0 +1,26 @@
+[
+    {
+        "checked": false,
+        "id":1,
+        "name":"iphone",
+        "price":"5800",
+        "num": 0,
+        "singleTotal": 0
+    },
+    {
+        "checked": false,
+        "id":2,
+        "name":"iphone2",
+        "price":"6800",
+        "num": 0,
+        "singleTotal": 0
+    },
+    {
+        "checked": false,
+        "id":3,
+        "name":"iphone3",
+        "price":"8800",
+        "num": 0,
+        "singleTotal": 0
+    }
+]
